@@ -1,1 +1,13 @@
-# Appsjson
+{
+  "ads": {
+      
+    "appKEY_IronSource": "11fc9091d",
+    "audience_network_native_id": "1311098445971072_1311100502637533",
+  
+    "audience_network_native_banner_id": "1311098445971072_1311100625970854",
+    "audience_network_medium_rectangle_id": "1311098445971072_1311100355970881"
+    
+
+  }
+  
+}
