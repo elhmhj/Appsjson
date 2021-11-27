@@ -1,11 +1,11 @@
 {
   "ads": {
       
-    "appKEY_IronSource": "105b340c9",
-    "audience_network_native_id": "3025016927775851_3025018474442363",
+    "appKEY_IronSource": "//105b340c9",
+    "audience_network_native_id": "//3025016927775851_3025018474442363",
   
-    "audience_network_native_banner_id": "3025016927775851_3025019934442217",
-    "audience_network_medium_rectangle_id": "3025016927775851_3025017971109080"
+    "audience_network_native_banner_id": "//3025016927775851_3025019934442217",
+    "audience_network_medium_rectangle_id": "//3025016927775851_3025017971109080"
     
 
   }
