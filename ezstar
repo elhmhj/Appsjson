@@ -1,9 +1,11 @@
 {
   "ads": {
       
-    "appKEY_IronSource": "106332011"
-    
-    
+    "appKEY_IronSource": "106332011",
+    "audience_network_native_id": "316050370265117_403868644816622",
+  
+    "audience_network_native_banner_id": "316050370265117_403869148149905",
+    "audience_network_medium_rectangle_id": "316050370265117_403868218149998"
 
   }
   
