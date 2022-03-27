@@ -1,15 +1,15 @@
 {
-  "ads": {
-      
-    "appKEY_IronSource": "106332011",
-    "audience_network_native_id": "316050370265117_454171743119645",
-  
-    "audience_network_native_banner_id": "316050370265117_454172106452942",
-    "audience_network_medium_rectangle_id": "147400870848481_147404144181487"
-    
-
-  }
-  
+"Ad":{    
+    "choice":"facebook",
+    "interstital":"316050370265117_409283197608500",
+    "native":"316050370265117_454171743119645",
+    "banner" : "316050370265117_454172106452942",
+    "AppId":"106332011"
+},
+"Content":[
+ {
+     "Head":"title",
+     "Body":"description"
+ }  
+]    
 }
-
-
